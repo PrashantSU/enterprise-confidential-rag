@@ -1,5 +1,7 @@
-streamlit
-google-genai
-faiss-cpu
+streamlit>=1.37
 numpy
+faiss-cpu
 pypdf
+requests
+google-genai
+fastembed
